@@ -1,4 +1,4 @@
 # Shiva
 This is my first github repository 
 <br>
-author- Shiva chougule
+author- Shiva chougule(Software tester)
